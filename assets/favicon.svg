@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="교회 무료홈페이지">
+  <defs>
+    <linearGradient id="g" x1="8" y1="6" x2="58" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3c8b74"/>
+      <stop offset="1" stop-color="#174a3f"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="url(#g)"/>
+  <path d="M17 39 32 24.5 47 39" fill="none" stroke="#fffdf8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M19 38.5 32 26l13 12.5V50H19V38.5Z" fill="#fffdf8"/>
+  <path d="M30.2 13.5h3.6v22h-3.6z" fill="#f9de53"/>
+  <path d="M24.5 22h15v3.6h-15z" fill="#f9de53"/>
+  <path d="M25 50V38h14v12" fill="#2f6f5e"/>
+</svg>
